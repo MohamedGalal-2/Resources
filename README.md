@@ -6,7 +6,7 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 ## Table of Contents
 - 📚 Books
 - 📝 Cheat Sheets
-- [💼 Interview Prep](#https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
+- 💼 Interview Prep
 - 📰 CV and Resume Prep
 - 🔗 Miscellaneous
 
