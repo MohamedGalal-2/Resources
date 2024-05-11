@@ -7,6 +7,7 @@
 
 ### LinkedIn Profiles
 - https://www.linkedin.com/in/sagar-kanjariya
+- https://www.linkedin.com/in/kapil-thakar-616211a
 
 ### CV Examples
 - https://www.livecareer.com/resume-search/r/embedded-systems-engineer-4f14fc1d984c4fa6a041b2e114f08bf9
