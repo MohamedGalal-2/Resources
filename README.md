@@ -8,8 +8,8 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 - 💻 [Computer Science Notes & Materials & Cheatsheets](Computer-Science-Notes-and-Cheatsheets)
 - 💼 [Interview Prep](#Interview-Prep)
 - 📰 [CV and Resume Prep](#CV-and-Resume-Prep)
-- 🗃️ [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
-- 🔗 [Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
+- 🗃️ [Miscellaneous Resources](#Miscellaneous-Resources)
+- 🔗 [Useful Links](#Useful-Links)
 - 🤝 [Contributing](#Contributing)
 - 📜 [License](#License)
 
@@ -31,9 +31,11 @@ Find tips and templates to craft a standout CV or resume that highlights your sk
 
 ### Miscellaneous Resources
 Explore a variety of additional resources that don't fit into the other categories but are equally valuable.
+[From Here](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
 
 ### Useful Links
 A compilation of links to external resources, tools, and websites that provide further learning opportunities.
+[From Here](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
 
 ### Contributing
 Your contributions are highly appreciated! If you have resources to add or improvements to suggest, please open a pull request. Let's make this repository even more valuable together!
