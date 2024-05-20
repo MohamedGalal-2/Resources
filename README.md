@@ -4,12 +4,12 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 ![Header image](https://www.promptcloud.com/wp-content/uploads/2017/10/sources-of-data-collection.png)
 
 ## Table of Contents
-- [📚 Books](https://github.com/MohamedGalal-2/Resources/tree/main/Books)
-- [💻 Computer Science Notes & Materials & Cheatsheets](https://github.com/MohamedGalal-2/Resources/tree/main/Computer%20Science)
-- [💼 Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
-- [📰 CV and Resume Prep](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
-- [🗃️ Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
-- [🔗 Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
+- 📚 [Books](https://github.com/MohamedGalal-2/Resources/tree/main/Books)
+- 💻 [Computer Science Notes & Materials & Cheatsheets](https://github.com/MohamedGalal-2/Resources/tree/main/Computer%20Science)
+- 💼 [Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
+- 📰 [CV and Resume Prep](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
+- 🗃️ [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
+- 🔗 [Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
 
 
 ### 🤝 Contributing
