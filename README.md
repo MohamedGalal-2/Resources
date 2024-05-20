@@ -4,7 +4,7 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 ![Header image](https://www.promptcloud.com/wp-content/uploads/2017/10/sources-of-data-collection.png)
 
 ## Table of Contents
-- 📚 Books
+- 📚 [Books](https://github.com/MohamedGalal-2/Resources/tree/main/Books)
 - 📝 Cheat Sheets
 - 💼 [Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
 - 📰 CV and Resume Prep
