@@ -5,15 +5,17 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 
 ## Table of Contents
 - [📚 Books](https://github.com/MohamedGalal-2/Resources/tree/main/Books)
-- 📝 Cheat Sheets
+- [💻 Computer Science Notes & Materials & Cheatsheets](https://github.com/MohamedGalal-2/Resources/tree/main/Computer%20Science)
 - [💼 Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
 - [📰 CV and Resume Prep](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
-- [🔗 Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Resources)
+- [🔗 Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
 
-## 🤝 Contributing
+
+
+### 🤝 Contributing
 Your contributions are highly appreciated! If you have resources to add or improvements to suggest, please open a pull request. Let's make this repository even more valuable together!
 
-## 📜 License
+### 📜 License
 This repository is licensed under the MIT License.
 
 
