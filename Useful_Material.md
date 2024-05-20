@@ -1,4 +1,4 @@
-# Resources for Embedded Systems
+# Useful Materials
 
 ## Table of Contents
 
