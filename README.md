@@ -10,7 +10,7 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 - 📰 [CV and Resume Prep](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
 - 🗃️ [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
 - 🔗 [Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
-- 🤝 [Contributing](#🤝-Contributing]
+- 🤝 [Contributing](#🤝-Contributing)
 
 
 ### 🤝 Contributing
