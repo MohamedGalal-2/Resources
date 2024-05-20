@@ -5,9 +5,9 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 
 ## Table of Contents
 - 📚 [Books](#Books)
-- 💻 [Computer Science Notes & Materials & Cheatsheets](Computer-Science-Notes-&-Materials-&-Cheatsheets)
-- 💼 [Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
-- 📰 [CV and Resume Prep](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
+- 💻 [Computer Science Notes & Materials & Cheatsheets](Computer-Science-Notes-and-Cheatsheets)
+- 💼 [Interview Prep](#Interview-Prep)
+- 📰 [CV and Resume Prep](#CV-and-Resume-Prep)
 - 🗃️ [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
 - 🔗 [Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
 - 🤝 [Contributing](#Contributing)
@@ -17,15 +17,17 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 Discover a curated selection of books covering various topics to broaden your horizons and deepen your understanding.
 [From Here](https://github.com/MohamedGalal-2/Resources/tree/main/Books)
 
-### Computer Science Notes & Materials & Cheatsheets
+### Computer Science Notes and Cheatsheets
 A comprehensive collection of notes, materials, and cheatsheets to aid in your computer science studies and projects.
 [From Here](https://github.com/MohamedGalal-2/Resources/tree/main/Computer%20Science)
 
 ### Interview Prep
 Get ready for your next interview with these preparation materials, including common questions and best practices.
+[From Here](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
 
 ### CV and Resume Prep
 Find tips and templates to craft a standout CV or resume that highlights your skills and experiences.
+[From Here](https://github.com/MohamedGalal-2/Resources/tree/main/CV%20Writing)
 
 ### Miscellaneous Resources
 Explore a variety of additional resources that don't fit into the other categories but are equally valuable.
