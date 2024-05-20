@@ -41,7 +41,4 @@ A compilation of links to external resources, tools, and websites that provide f
 Your contributions are highly appreciated! If you have resources to add or improvements to suggest, please open a pull request. Let's make this repository even more valuable together!
 
 ### License
-This repository is licensed under the MIT License.
-
-
-
+This repository is licensed under the MIT License. Please see the LICENSE file for more information
