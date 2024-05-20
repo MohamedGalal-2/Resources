@@ -8,7 +8,7 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 - 📝 Cheat Sheets
 - 💼 [Interview Prep](https://github.com/MohamedGalal-2/Resources/tree/main/Interview%20Prep)
 - 📰 CV and Resume Prep
-- 🔗 Miscellaneous
+- 🔗 [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Resources)
 
 ## 🤝 Contributing
 Your contributions are highly appreciated! If you have resources to add or improvements to suggest, please open a pull request. Let's make this repository even more valuable together!
