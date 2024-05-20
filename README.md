@@ -11,12 +11,13 @@ Welcome to the Resource Hub! This repository is your one-stop destination for a 
 - 🗃️ [Miscellaneous Resources](https://github.com/MohamedGalal-2/Resources/tree/main/Miscellaneous%20Resources)
 - 🔗 [Useful Links](https://github.com/MohamedGalal-2/Resources/blob/main/Useful_Material.md)
 - 🤝 [Contributing](#Contributing)
+- 📜 [License](#License)
 
 
-### 🤝 Contributing
+### Contributing
 Your contributions are highly appreciated! If you have resources to add or improvements to suggest, please open a pull request. Let's make this repository even more valuable together!
 
-### 📜 License
+### License
 This repository is licensed under the MIT License.
 
 
